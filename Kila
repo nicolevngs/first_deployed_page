@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Kila</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+Nicole
+Meet Kila
+
+
+<h1>Meet Kila</h1>
+<main>
+<p>This beautiful creature is 8 years old. She is (conveniently) the laziest husky on earth. She is very picky with her food. She hates snow and getting wet, which makes me think she´s not aware she is a dog, but I am the luckiest gal on earth to be able to share lives with her.</p>
+<img src = "wisconsin_dells.jpg"/>
+<img src = "badlands.jpg"/>
+<img src = "falling.jpg"/>
+<img src = "jewel_cave.jpg"/>
+</main>
+
+Nicole Valdespino N; 2020
+</body>
+</html>
